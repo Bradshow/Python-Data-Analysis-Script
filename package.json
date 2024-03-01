@@ -1,0 +1,29 @@
+{
+  "name": "python-data-analysis-script",
+  "version": "1.0.0",
+  "description": "This Python script is designed for data analysis using the pandas and matplotlib libraries. It reads data from a CSV file, performs basic statistical analysis, and generates visualizations such as histograms. Customize the script to analyze your own datasets.",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bradshow/Python-Data-Analysis-Script"
+  },
+  "keywords": [
+    "python",
+    "data",
+    "analysis",
+    "pandas",
+    "matplotlib"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tictactoe-api-feng": "^1.0.1",
+    "numpy": "^1.21.3",
+    "scipy": "^1.7.1",
+    "scikit-learn": "^0.24.2",
+    "seaborn": "^0.11.2"
+  }
+}
